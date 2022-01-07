@@ -4,7 +4,7 @@
   "description": "Food recipes",
   "main": "index.js",
   "scripts": {
-    "build": "tailwindcss build src/styles.css -o public/styles.css"
+    "build": "tailwindcss -i src/styles.css -o public/styles.css -w"
   },
   "author": "Oluwaseyi Oyewunmi",
   "license": "ISC",
