@@ -1,19 +1,11 @@
 # Food_Recipes
-<hr/>
 
-Food Recipes is blog application. This project allows users to blog and read about different cooking recipes.
-
-
-<hr/>
-
-**Still In development!!!!**  
-> Backend with Go (Gin) In Progress
+**Still In development!!!!**
 
 
 ### HOMEPAGE Built Using Tailwind Css
-<hr/>
-
-![HomePage](https://github.com/oyewunmio/Food_Recipes/blob/master/Preview.html.png)
+<hr>
+![Preview html](https://user-images.githubusercontent.com/42620838/148645726-16705dea-83a2-4a14-a003-7548ab67f348.png)
 
 
 
