@@ -1,12 +1,16 @@
 # Food_Recipes
 <hr/>
 
-Food Recipes is blog application. This project allows users to blog and read about different cooking recipes.
+Food Recipes is an open source blog application. This application allows users to log in and blog about their different favourite cooking recipes while also reading other users blog posts.
 
 
 <hr/>
 
 **Still In development!!!!**
+>Ui   (Done)
+
+>Fronend with React (In progress)
+
 > Backend with Go (Gin) In Progress
 
 
@@ -14,3 +18,12 @@ Food Recipes is blog application. This project allows users to blog and read abo
 <hr/>
 
 ![HomePage](https://github.com/oyewunmio/Food_Recipes/blob/master/Preview.png)
+
+
+
+<hr/>
+
+**CONTRIBUTION**
+
+If you interested in contributing make a pull request or 
+email: oluwaseyioyewunmi99@gmail.com 
