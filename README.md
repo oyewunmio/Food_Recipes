@@ -14,7 +14,7 @@ Food Recipes is an open source blog application. This application allows users t
 > Backend with Go (Gin) In Progress
 
 
-### HOMEPAGE Built Using Tailwind Css
+### HOMEPAGE Built Using HTML5 and TailwindCss Js Framework
 <hr/>
 
 ![HomePage](https://github.com/oyewunmio/Food_Recipes/blob/master/Preview.png)
